@@ -1,0 +1,8 @@
+streamlit
+plotly
+pandas
+numpy
+matplotlib
+streamlit-option-menu
+streamlit-extras
+boto3
